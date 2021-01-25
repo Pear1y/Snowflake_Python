@@ -1,7 +1,7 @@
 # snowflake_python
 
-# Before
+## Before
 ![image-1](https://github.com/PearlyNautilus/snowflake_python/blob/main/resources/Before.png)
 
-# After
+## After
 ![image-1](https://github.com/PearlyNautilus/snowflake_python/blob/main/resources/After.png)
